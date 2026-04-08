@@ -7,4 +7,4 @@ try:
     print("Result:", result)
 
 except ZeroDivisionError:
-    print("Cannot divide by zero")
+    print("Cannot divide the number by zero")
